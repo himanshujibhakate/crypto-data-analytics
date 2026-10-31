@@ -64,30 +64,6 @@ The project uses cryptocurrency data containing information about 200 coins, inc
 - VBA (Visual Basic for Applications)
 - Cryptocurrency Market Data
 
-## 📁 Project Structure
-
-```text
-Crypto-Data-Analysis/
-│
-├── README.md
-│
-├── Dataset/
-│   └── crypto_data.xlsx
-│
-├── Dashboards/
-│   ├── Task_1_Time_Based_Analysis.xlsm
-│   ├── Task_2_Coin_Comparison.xlsx
-│   ├── Task_3_Liquidity_Analysis.xlsx
-│   ├── Task_4_Price_Change_Comparison.xlsx
-│   ├── Task_5_Low_Budget_Insights.xlsx
-│   └── Task_6_Historical_Price_Insights.xlsx
-│
-└── Screenshots/
-    └── Dashboard_Previews/
-```
-
-*Note: Update the filenames and folder structure according to the actual files you upload.*
-
 ## 📈 Skills Gained
 
 - Data Cleaning and Data Analysis
